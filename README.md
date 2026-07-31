@@ -199,7 +199,8 @@ Customer-Shopping-Behavior-Analysis
 
 # Dashboard Preview
 
-![Dashboard](Dasboard_Preview/Customer Behavior.png)
+<img width="100%" alt="Executive Overview" src="Dasboard_Preview/Customer Behavior.png">
+
 
 ---
 ---
