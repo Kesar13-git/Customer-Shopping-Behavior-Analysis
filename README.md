@@ -199,7 +199,7 @@ Customer-Shopping-Behavior-Analysis
 
 # Dashboard Preview
 
-![Dashboard](https://img.shields.io/badge/Python-3.11-blue)
+![Dashboard](Dasboard_Preview/Customer Behavior.png)
 
 ---
 ---
